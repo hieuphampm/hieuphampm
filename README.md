@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pham Phuoc Minh Hieu</h1>
 <h3 align="center">A passionate full-stack developer and data science student in Vietnam.</h3>
 
-- 🔭 I’m currently working on [Computer shop management system.](https://github.com/hieuphampm/computer-shop-management-system.git)
-
 - 🌱 I’m currently learning **AI, ML and mobile apps.**
 
 - 👯 I’m looking to collaborate on **Mobile Apps.**
