@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Deep%20Learning-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-COMPUTER_VISON-purple?style=for-the-badge" />
 </p>
 
 ---
