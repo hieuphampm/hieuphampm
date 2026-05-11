@@ -43,4 +43,4 @@ I'm an engineer specializing in AI/ML systems and backend infrastructure. I enjo
 
 ### ✦ Connect
 
-[LinkedIn](https://linkedin.com/in/hieupham976) • [Kaggle](https://kaggle.com/hieuphamminh976) • [LeetCode](https://leetcode.com/hieuphamminh976) • [hieuphamminh976@gmail.com](mailto:hieuphamminh976@gmail.com)
+[LinkedIn](https://linkedin.com/in/hieupham976) • [Website](https://hieuphampm.github.io/) • [hieuphamminh976@gmail.com](mailto:hieuphamminh976@gmail.com)
